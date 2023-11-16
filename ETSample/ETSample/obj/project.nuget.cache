@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eEnZYEAeespt3cY7+tHk18UWQjazrBAtxDuN+kx7x5dEXrBuhryyb0CchegGjwrDIwNdwlYmypmekV+T74WQZQ==",
+  "success": true,
+  "projectFilePath": "/Users/kyrylopolishchuk/SSWU/ETSample/ETSample/ETSample.csproj",
+  "expectedPackageFiles": [
+    "/Users/kyrylopolishchuk/.nuget/packages/csvhelper/30.0.1/csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
